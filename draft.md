@@ -18,11 +18,11 @@
 
 SMP 模型主要特点是只有一个操作系统镜像同时运行在所有核上，所有进程和资源的调度和管理以及核间通信均由操作系统负责。
 
-![](images/smp_model.svg)
+![](./images/smp_model.svg)
 
 ###1.2 非对称多处理 AMP
 
-![](images/amp_model.svg)
+![](./images/amp_model.svg)
 
 ###1.3 混合多处理 BMP
 
